@@ -1,0 +1,5 @@
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\win-x64\app.publish\Samples.AutoUpdate.exe
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\win-x64\app.publish\Samples.AutoUpdate.dll
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\win-x64\app.publish\Samples.AutoUpdate.deps.json
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\win-x64\app.publish\Samples.AutoUpdate.runtimeconfig.json
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\win-x64\app.publish\Samples.AutoUpdate.pdb

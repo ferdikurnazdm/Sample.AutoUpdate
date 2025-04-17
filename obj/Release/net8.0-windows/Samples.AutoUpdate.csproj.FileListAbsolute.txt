@@ -1,0 +1,16 @@
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\Samples.AutoUpdate.exe
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\Samples.AutoUpdate.deps.json
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\Samples.AutoUpdate.runtimeconfig.json
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\Samples.AutoUpdate.dll
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\Samples.AutoUpdate.pdb
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.Form1.resources
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.csproj.GenerateResource.cache
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.AssemblyInfoInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.AssemblyInfo.cs
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.dll
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\refint\Samples.AutoUpdate.dll
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.pdb
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.genruntimeconfig.cache
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\ref\Samples.AutoUpdate.dll
