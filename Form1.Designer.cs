@@ -34,7 +34,7 @@
             label1.Name = "label1";
             label1.Size = new Size(130, 30);
             label1.TabIndex = 0;
-            label1.Text = "Verison 1.0.0";
+            label1.Text = "Verison 1.0.1";
             // 
             // Form1
             // 
