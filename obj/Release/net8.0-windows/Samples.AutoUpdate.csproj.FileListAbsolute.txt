@@ -14,3 +14,8 @@ D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Releas
 D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.pdb
 D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.genruntimeconfig.cache
 D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\ref\Samples.AutoUpdate.dll
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.sourcelink.json
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\Samples.AutoUpdate.dll.manifest
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\bin\Release\net8.0-windows\Samples.AutoUpdate.application
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.dll.manifest
+D:\Users\ferdi.kurnaz\source\repos\Samples\Desktop\Samples.AutoUpdate\obj\Release\net8.0-windows\Samples.AutoUpdate.application
